@@ -32,3 +32,8 @@ snap-study/
 └── .streamlit/
     ├── secrets.toml
     └── secrets.toml.example
+
+## 🔗 Project Links
+
+- **Live Demo:** [Snap & Study](https://snap-and-study-c5fwrp2tupgsjazbxumumx.streamlit.app/)
+- **GitHub Repository:** [View Source Code](https://github.com/Sanvi-2006/snap-and-study)

@@ -18,23 +18,18 @@ Snap & Study is an AI-powered study assistant for college students.
 - Google Gemini API
 - Google GenAI Python SDK
 
-## 📁 Project Structure
+📁 Project Structure
 
-```text
-snap-study/
-│
+snap-and-study/
+├── .streamlit/
+│   └── secrets.toml.example
+├── .gitignore
 ├── app.py
 ├── prompts.py
-├── requirements.txt
 ├── README.md
-├── .gitignore
-│
-└── .streamlit/
-    ├── secrets.toml
-    └── secrets.toml.example
+└── requirements.txt
 
-## Project Links
+🔗 Project Links
 
-[Live Demo](https://snap-and-study-c5fwrp2tupgsjazbxumumx.streamlit.app/)
-
-[GitHub Repository](https://github.com/Sanvi-2006/snap-and-study)
+- Live Demo: "Snap & Study" (https://snap-and-study-c5fwrp2tupgsjazbxumumx.streamlit.app/)
+- GitHub Repository: "View Source Code" (https://github.com/Sanvi-2006/snap-and-study)
